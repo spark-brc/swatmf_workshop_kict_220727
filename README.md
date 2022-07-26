@@ -33,7 +33,7 @@ Please bring a laptop running Windows OS (higher than Windows 7, preferably) to 
 		- QGIS & QSWATMOD Installations (30 mins)
 		- Q&A Session (30 mins)
 
-	2. Day 2  -  Second Session -- QSWATMOD
+	2. [Day 2  -  Second Session -- QSWATMOD](https://github.com/spark-brc/QSWATMOD2)
 		- Exercise with QSWATMOD (5 hours)
 			- Description of QSWATMOD
 			- Create a MODFLOW model
@@ -48,7 +48,7 @@ Please bring a laptop running Windows OS (higher than Windows 7, preferably) to 
 			- SWAT-MODFLOW model evaluation
 		- Q&A Session (30 mins)
 
-	3. Day 3  - Third Session -- Optimization Framework
+	3. [Day 3  - Third Session -- Optimization Framework]()
 		- Work with SWAT-MODFLOW on your study area (2 hours)
 			- Apply the SWAT-MODFLOW model to your study area
 				- Bring your existing SWAT model and start from there.
