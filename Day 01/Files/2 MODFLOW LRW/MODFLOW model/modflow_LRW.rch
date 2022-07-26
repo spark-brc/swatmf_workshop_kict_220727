@@ -1,5 +1,0 @@
-# Little River Watershed groundwater flow model
-3 40						# NRCHOP, IRCHCB
-0 0
-CONSTANT 0.00168				# RECH (L/T)
-
