@@ -1,0 +1,8 @@
+'rt3d.btn'			INBTN=1			Basic Transport Package
+'rt3d.adv'			INADV=2			Advection Package
+'rt3d.dsp'			INDSP=3			Dispersion Package
+'rt3d.ssm'			INSSM=4			Source/Sink Mixing Package
+'rt3d.rct'			INRCT=5			Reaction Package
+'rt3d.gcg'			INGCG=6			Implicit Solver Package
+'rt3d.restart'			OUTRES=10		Restart File
+

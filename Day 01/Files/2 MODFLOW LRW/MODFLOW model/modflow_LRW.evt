@@ -1,0 +1,11 @@
+# EVT: Evapotranspiration package file created on 7/6/2018 by ModelMuse version 3.10.0.0.
+     3     0 # DataSet 2: NEVTOP IEVTCB
+     1     1     1    -1 # Data Set 5: INSURF INEVTR INEXDP INIEVT Stress period 1
+CONSTANT 0.000			# Data Set 6: SURF
+CONSTANT 0.000			# Data Set 7: EVTR
+CONSTANT 2.000			# Data Set 9: EXDP
+
+
+
+
+

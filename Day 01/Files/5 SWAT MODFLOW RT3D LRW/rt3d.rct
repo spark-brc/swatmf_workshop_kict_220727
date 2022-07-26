@@ -1,0 +1,15 @@
+'ISOTHM,IREACT,NCRXNDATA,NVRXNDATA,ISOLVER,IRCTOP -----------------------------'
+1 10 2 0 1 0
+Bulk density
+0 1.855
+Sorption parameters
+0 0.0		partition coefficient for NO3 (linear sorption)
+0 3.5		partition coefficient for PO4 (linear sorption)
+0 0.0		second parameter for NO3 (not used for linear sorption)
+0 0.0		second parameter for PO4 (not used for linear sorption)
+Spatially Constant Values for reaction rates
+0.10     	kden
+10.00		kno3
+
+
+
