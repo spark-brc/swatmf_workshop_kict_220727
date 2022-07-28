@@ -48,7 +48,7 @@ Please bring a laptop running Windows OS (higher than Windows 7, preferably) to 
 			- SWAT-MODFLOW model evaluation
 		- Q&A Session (30 mins)
 
-	3. [Day 3  - Third Session -- Optimization Framework]()
+	3. [Day 3  - Third Session -- Optimization Framework](https://github.com/spark-brc/swatmf_pest_zon)
 		- Work with SWAT-MODFLOW on your study area (2 hours)
 			- Apply the SWAT-MODFLOW model to your study area
 				- Bring your existing SWAT model and start from there.
